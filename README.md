@@ -21,7 +21,7 @@ Backend: [skillsync-backend-0y7b.onrender.com](https://skillsync-backend-0y7b.on
 
 ### Hero Section
 
-![Landing Page](./screenshots/landing-hero.png)
+![Landing Page](./landing-hero.png)
 
 ### Features
 
