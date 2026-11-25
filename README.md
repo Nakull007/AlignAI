@@ -25,17 +25,17 @@ Backend: [skillsync-backend-0y7b.onrender.com](https://skillsync-backend-0y7b.on
 
 ### Features
 
-![Features](./screenshots/features.png)
+![Features](./features.png)
 
 ### Readiness Preview
 
-![Readiness](./screenshots/readiness-preview.png)
+![Readiness](./readiness-preview.png)
 
 ---
 
 ## Resume Upload
 
-![Upload](./screenshots/upload-page.png)
+![Upload](./upload-page.png)
 
 ---
 
@@ -43,11 +43,11 @@ Backend: [skillsync-backend-0y7b.onrender.com](https://skillsync-backend-0y7b.on
 
 ### Resume Analysis Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./dashboard.png)
 
 ### Skill Breakdown
 
-![Skill Breakdown](./screenshots/skill-breakdown.png)
+![Skill Breakdown](./skill-breakdown.png)
 
 ---
 
@@ -55,11 +55,11 @@ Backend: [skillsync-backend-0y7b.onrender.com](https://skillsync-backend-0y7b.on
 
 ### Detected & Missing Skills
 
-![Skill Analysis](./screenshots/skill-analysis.png)
+![Skill Analysis](./skill-analysis.png)
 
 ### Gap Analysis
 
-![Gap Analysis](./screenshots/gap-analysis.png)
+![Gap Analysis](./gap-analysis.png)
 
 ---
 
@@ -152,19 +152,19 @@ Feedback & Recommendations
 
 ### Roadmap Overview
 
-![Roadmap Overview](./screenshots/roadmap-overview.png)
+![Roadmap Overview](./roadmap-overview.png)
 
 ### Learning Modules
 
-![Learning Modules](./screenshots/learning-modules.png)
+![Learning Modules](./learning-modules.png)
 
 ### Recommended Resources
 
-![Resources](./screenshots/resources.png)
+![Resources](./resources.png)
 
 ### Progress Tracker
 
-![Progress Tracker](./screenshots/progress-tracker.png)
+![Progress Tracker](./progress-tracker.png)
 
 ---
 
@@ -172,15 +172,15 @@ Feedback & Recommendations
 
 ### Priority Improvements
 
-![Priority Improvements](./screenshots/priority-improvements.png)
+![Priority Improvements](./priority-improvements.png)
 
 ### Keyword Analysis
 
-![Keyword Analysis](./screenshots/keyword-analysis.png)
+![Keyword Analysis](./keyword-analysis.png)
 
 ### Writing Tips
 
-![Writing Tips](./screenshots/writing-tips.png)
+![Writing Tips](./writing-tips.png)
 
 ---
 
